@@ -16,5 +16,6 @@ public class Application {
         //启动springboot应用
         SpringApplication.run(Application.class, args);
         System.out.println("路飞");
+        System.out.println("索隆");
     }
 }
