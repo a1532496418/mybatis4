@@ -18,5 +18,6 @@ public class Application {
         System.out.println("山治");
         System.out.println("路飞");
         System.out.println("索隆");
+        System.out.println("乌索普");
     }
 }
